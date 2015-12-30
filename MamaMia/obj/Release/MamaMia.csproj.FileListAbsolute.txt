@@ -1,0 +1,10 @@
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\MamaMia\bin\Release\MamaMia.exe.config
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\MamaMia\bin\Release\MamaMia.exe
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\MamaMia\bin\Release\MamaMia.pdb
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\MamaMia\bin\Release\DomainModel.dll
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\MamaMia\bin\Release\Service.dll
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\MamaMia\bin\Release\DomainModel.pdb
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\MamaMia\bin\Release\Service.pdb
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\MamaMia\obj\Release\MamaMia.csprojResolveAssemblyReference.cache
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\MamaMia\obj\Release\MamaMia.exe
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\MamaMia\obj\Release\MamaMia.pdb

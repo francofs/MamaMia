@@ -1,0 +1,5 @@
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\DomainModel\bin\Debug\DomainModel.dll
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\DomainModel\bin\Debug\DomainModel.pdb
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\DomainModel\obj\Debug\DomainModel.dll
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\DomainModel\obj\Debug\DomainModel.pdb

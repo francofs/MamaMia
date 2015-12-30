@@ -1,0 +1,7 @@
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\Service\bin\Debug\Service.dll
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\Service\bin\Debug\Service.pdb
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\Service\obj\Debug\Service.dll
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\Service\obj\Debug\Service.pdb
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\Service\bin\Debug\DomainModel.dll
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\Service\bin\Debug\DomainModel.pdb

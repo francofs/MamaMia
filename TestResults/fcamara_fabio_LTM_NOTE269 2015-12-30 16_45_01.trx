@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="78b2963f-76cd-4bdb-96fe-b45dd3536134" name="fcamara_fabio@LTM_NOTE269 2015-12-30 16:45:01" runUser="GRUPOLTM\fcamara_fabio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="aa414626-8ef4-4646-a4d2-8ff175686856">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="fcamara_fabio_LTM_NOTE269 2015-12-30 16_45_01" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2015-12-30T16:45:01.4522361-02:00" queuing="2015-12-30T16:45:02.1627668-02:00" start="2015-12-30T16:45:02.4223353-02:00" finish="2015-12-30T16:45:02.8635242-02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MySample" storage="inputunittests\bin\release\inputunittests.dll" id="6a32d31d-b5d7-ec20-990f-e347446c0a5a">
+      <Execution id="fdd207c2-69e4-496c-9334-16645742e5cb" />
+      <TestMethod codeBase="C:/Users/fcamara_fabio/Documents/visual studio 2015/Projects/MamaMia/InputUnitTests/bin/Release/InputUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="InputUnitTests.UnitTest1, InputUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MySample" />
+    </UnitTest>
+    <UnitTest name="InvalidInputTests" storage="inputunittests\bin\release\inputunittests.dll" id="ef91f99a-664e-8b66-661f-95ca00740005">
+      <Execution id="358413fa-edf6-4792-84b2-07718ae10d60" />
+      <TestMethod codeBase="C:/Users/fcamara_fabio/Documents/visual studio 2015/Projects/MamaMia/InputUnitTests/bin/Release/InputUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="InputUnitTests.UnitTest1, InputUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InvalidInputTests" />
+    </UnitTest>
+    <UnitTest name="TestMethodGFTSample" storage="inputunittests\bin\release\inputunittests.dll" id="9d1b0a30-4225-1629-cf2e-da9d7654a28e">
+      <Execution id="3df18f96-56fe-4787-b897-bac95156f745" />
+      <TestMethod codeBase="C:/Users/fcamara_fabio/Documents/visual studio 2015/Projects/MamaMia/InputUnitTests/bin/Release/InputUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="InputUnitTests.UnitTest1, InputUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethodGFTSample" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ef91f99a-664e-8b66-661f-95ca00740005" executionId="358413fa-edf6-4792-84b2-07718ae10d60" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6a32d31d-b5d7-ec20-990f-e347446c0a5a" executionId="fdd207c2-69e4-496c-9334-16645742e5cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9d1b0a30-4225-1629-cf2e-da9d7654a28e" executionId="3df18f96-56fe-4787-b897-bac95156f745" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="358413fa-edf6-4792-84b2-07718ae10d60" testId="ef91f99a-664e-8b66-661f-95ca00740005" testName="InvalidInputTests" computerName="LTM_NOTE269" duration="00:00:00.0425940" startTime="2015-12-30T16:45:02.4993808-02:00" endTime="2015-12-30T16:45:02.7894732-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="358413fa-edf6-4792-84b2-07718ae10d60">
+    </UnitTestResult>
+    <UnitTestResult executionId="fdd207c2-69e4-496c-9334-16645742e5cb" testId="6a32d31d-b5d7-ec20-990f-e347446c0a5a" testName="MySample" computerName="LTM_NOTE269" duration="00:00:00.0042744" startTime="2015-12-30T16:45:02.7914751-02:00" endTime="2015-12-30T16:45:02.7984736-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fdd207c2-69e4-496c-9334-16645742e5cb">
+    </UnitTestResult>
+    <UnitTestResult executionId="3df18f96-56fe-4787-b897-bac95156f745" testId="9d1b0a30-4225-1629-cf2e-da9d7654a28e" testName="TestMethodGFTSample" computerName="LTM_NOTE269" duration="00:00:00.0004836" startTime="2015-12-30T16:45:02.7994744-02:00" endTime="2015-12-30T16:45:02.8024769-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3df18f96-56fe-4787-b897-bac95156f745">
+    </UnitTestResult>
+  </Results>
+</TestRun>

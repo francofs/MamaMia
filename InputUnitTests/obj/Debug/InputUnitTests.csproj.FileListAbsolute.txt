@@ -1,0 +1,10 @@
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Debug\InputUnitTests.dll
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Debug\InputUnitTests.pdb
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Debug\DomainModel.dll
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Debug\Service.dll
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Debug\DomainModel.pdb
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Debug\Service.pdb
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\InputUnitTests\obj\Debug\InputUnitTests.csprojResolveAssemblyReference.cache
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\InputUnitTests\obj\Debug\InputUnitTests.dll
+c:\users\fcamara_fabio\documents\visual studio 2015\Projects\MamaMia\InputUnitTests\obj\Debug\InputUnitTests.pdb

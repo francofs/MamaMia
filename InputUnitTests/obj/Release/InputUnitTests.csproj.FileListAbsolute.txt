@@ -1,0 +1,9 @@
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Release\InputUnitTests.dll
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Release\InputUnitTests.pdb
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Release\DomainModel.dll
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Release\Service.dll
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Release\DomainModel.pdb
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\InputUnitTests\bin\Release\Service.pdb
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\InputUnitTests\obj\Release\InputUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\InputUnitTests\obj\Release\InputUnitTests.dll
+C:\Users\fcamara_fabio\Documents\visual studio 2015\Projects\MamaMia\InputUnitTests\obj\Release\InputUnitTests.pdb
